@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:spotify_ui_clone/navigation/tabbar.dart';
+import 'package:spotify_ui_clone/views/navigation/tabbar.dart';
 
 void main() {
   runApp(const MainApp());
